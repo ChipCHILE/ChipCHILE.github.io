@@ -1,0 +1,87 @@
+
+/* Custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+/* Custom defined colors and fonts */
+:root {
+  --chipchile-red: #7f0004;
+  --chipchile-yellow: #decd25;
+  --chipchile-calipso: #4e9a96;
+  --chipchile-brown: #463a3a;
+  --chipchile-light-red: #ffced0;
+  --chipchile-light-yellow: #f9f5d4;
+  --chipchile-light-calipso: #deeeee;
+  --chipchile-light-brown: #e7e3e2;
+  --chipchile-dark-red: #5c0001;
+  --chipchile-dark-yellow: #6e6412;
+  --chipchile-dark-calipso: #224241;
+  --chipchile-dark-brown: #292323;
+  
+  --primary-accent: var(--chipchile-calipso);
+  --navbar-border-top: var(--chipchile-dark-calipso);
+  
+  --font-heading: 'Oswald', sans-serif;
+  --font-body: 'Open Sans', sans-serif;
+}
+
+/* Layout editions */
+#top {
+  background: var(--chipchile-brown);
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: 20px;
+  text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+
+.home-carousel {
+  background: url('../img/carousel/oblea-silicio.jpg') center center repeat;
+}
+.home-carousel .dark-mask {
+  opacity: 0.85;
+  filter: alpha(opacity=90);
+}
+.home-carousel h1 {
+  text-transform: none;
+}
+.home-carousel ul {
+  text-transform: none;
+}
+
+.navbar-brand img {
+  /*max-height: 82px;*/
+  max-height: 50px;
+}
+.navbar-default{
+  position: relative;
+  overflow: visible;
+  filter: drop-shadow(0 4px 3px rgba(0, 0, 0, 0.2));
+}
+/*
+.navbar-default::after {
+  position: absolute;
+  width: 100%;
+  height: 30px;
+  background: white;
+  z-index: -1;
+  clip-path: polygon(0% -1px, 0% 100%, 400px 100%, 460px 0%, 100% 0%, 100% -1px);
+}
+*/
+
+#blog-banner .img-responsive {
+  border: 5px solid var(--chipchile-yellow);
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#blog-listing-medium .image {
+  padding-bottom: 9px;
+}

@@ -1,0 +1,10 @@
+weight: 3
+title: "¿Tu universidad ya tiene Organización Estudiantil de microelectrónica?"
+description: >
+  <ul class="list-style-none">
+    <li>Les ayudamos a diseñar circuitos integrados y gestionar sus proyectos.</li>
+    <li></li>
+    <li></li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
+#href: "https://devcows.github.io/hugo-universal-theme/"

@@ -1,0 +1,11 @@
+weight: 1
+title: "<br>ChipCHILE:"
+description: >
+  <ul class="list-style-none">
+    <li>La nueva fundación para el desarrollo de la microelectrónica en Chile.</li>
+    <li></li>
+    <li>Síguenos en Instagram para no perderte ninguna novedad</li>
+    <li><img src="img/instagram-white-icon.webp" class="img-responsive" style="max-height: 32px;" align="right"></li>
+  </ul>
+image: "img/carousel/logo_chipchile.png"
+href: "https://www.instagram.com/chipchile_/"
