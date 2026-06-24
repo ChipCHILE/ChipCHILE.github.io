@@ -1,4 +1,5 @@
-baseURL = 'https://www.chipchile.cl/'
+#baseURL = 'https://www.chipchile.cl/'
+baseURL = 'https://chipchile.github.io/'
 locale = 'en-us'
 title = 'ChipCHILE'
 theme = 'universal'
