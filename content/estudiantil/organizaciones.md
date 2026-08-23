@@ -29,8 +29,8 @@ Aquellas organizaciones que deseen ser reconocidas formalmente por ChipCHILE sol
 
 Actualmente, ChipCHILE reconoce formalmente a las siguientes organizaciones estudiantiles:
 <ul style="text-align: justify; margin-left: 50px">
-	<li>ChipUSM, de la Universidad Técnica Federico Santa María</li>
-	<li>ChipUBB, de la Universidad del Bío-Bío</li>
+	<li><a href="https://www.instagram.com/chip_usm">ChipUSM</a> , de la Universidad Técnica Federico Santa María</li>
+	<li><a href="https://www.instagram.com/chipubb/">ChipUBB</a>, de la Universidad del Bío-Bío</li>
 </ul>
 
 No duden en escribirnos si tienen dudas sobre cómo organizarse o cómo solicitar el reconocimiento de su organización.
