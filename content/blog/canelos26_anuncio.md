@@ -3,7 +3,7 @@ title = "Se viene el Seminario Canelos 2026"
 date = "2026-08-23"
 tags = ["ChipUSM", "Canelos"]
 categories = ["eventos","comunidad"]
-banner = "/img/blog/canelos26.png"
+banner = "/img/blog/canelos26_anuncio.png"
 authors = ["Alfonso Cortes"]
 +++
 

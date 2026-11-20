@@ -1,7 +1,7 @@
 +++
 title = "Anuncio de ChipCHILE en Canelos 2025"
 date = "2025-08-22"
-tags = ["ChipCHILE", "Canelos"]
+tags = ["ChipCHILE", "ChipUSM", "Canelos"]
 categories = ["eventos","comunidad"]
 banner = "/img/blog/Canelos25.jpg"
 authors = ["Alfonso Cortes"]

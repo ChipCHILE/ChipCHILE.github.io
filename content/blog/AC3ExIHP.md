@@ -1,8 +1,8 @@
 +++
 title = "AC3E e IHP anuncian acuerdo de colaboración"
 date = "2026-09-02"
-tags = ["ChipCHILE", "Digital"]
-categories = ["actividades"]
+tags = []
+categories = ["comunidad"]
 banner = "/img/blog/ac3e_ihp.png"
 authors = ["Alfonso Cortes"]
 +++
